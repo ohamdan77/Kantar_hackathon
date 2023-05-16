@@ -4,6 +4,7 @@ Welcome to Kantar Hackathon with Databricks. The main goal of this hacakthon is 
 - Ingestion
 - Data Engineering
 - Data Science
+
 Throughout this Hackathon you will be achieving the following:
 - Ingest Data from the cloud location (CSV)
 - Split the data in 2 equal pieces
