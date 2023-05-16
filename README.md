@@ -16,7 +16,8 @@ Throughout this Hackathon you will be achieving the following:
 - Create a stream from the json location to a landing zone on the DBFS, that will read one json file at a time and write to the landing zone
 - Use DLT to read from the landing zone and update the bronze and silver tables
 - Update also the feature store table from the landing zone
-- Create an inference pipeline to use the model you have created and create a gold table with the predictions 
+- Create an inference pipeline to use the model you have created and create a gold table with the predictions
+- Create a DBSQL dashboard based on your gold table
 
 
 <div style="text-align: center; line-height: 0; padding-top: 9px;">
