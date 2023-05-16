@@ -17,3 +17,8 @@ Throughout this Hackathon you will be achieving the following:
 - Use DLT to read from the landing zone and update the bronze and silver tables
 - Update also the feature store table from the landing zone
 - Create an inference pipeline to use the model you have created and create a gold table with the predictions 
+
+
+<div style="text-align: center; line-height: 0; padding-top: 9px;">
+  <img src="https://s3.us-west-2.amazonaws.com/files.training.databricks.com/ohamdan/Kantar+Hackathon.jpeg" alt="Databricks Learning" style="width: 600px">
+</div>
