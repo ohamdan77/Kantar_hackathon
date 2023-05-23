@@ -20,6 +20,7 @@ Throughout this Hackathon you will be achieving the following:
 - Create a DBSQL dashboard based on your gold table
 
 
-<div style="text-align: center; line-height: 0; padding-top: 9px;">
-  <img src="https://s3.us-west-2.amazonaws.com/files.training.databricks.com/ohamdan/Kantar+Hackathon.jpeg" alt="Databricks Learning" style="width: 600px">
+
+<div>
+  <img src="https://s3.us-west-2.amazonaws.com/files.training.databricks.com/ohamdan/Kantar+Hackathon.jpeg" width="1600">
 </div>
