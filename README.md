@@ -22,5 +22,5 @@ Throughout this Hackathon you will be achieving the following:
 
 
 <div>
-  <img src="https://s3.us-west-2.amazonaws.com/files.training.databricks.com/ohamdan/Kantar+Hackathon.jpeg" width="1600">
+  <img src="https://s3.us-west-2.amazonaws.com/files.training.databricks.com/ohamdan/Kantar+Hackathon.jpeg" width="1200">
 </div>
