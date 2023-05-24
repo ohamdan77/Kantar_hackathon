@@ -19,7 +19,7 @@ Throughout this Hackathon you will be achieving the following:
 - Create an inference pipeline to use the model you have created and create a gold table with the predictions
 - Create a DBSQL dashboard based on your gold table
 
-
+Good Luck!
 
 
 <div>
