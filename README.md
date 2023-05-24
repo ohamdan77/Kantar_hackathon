@@ -21,3 +21,6 @@ Throughout this Hackathon you will be achieving the following:
 
 Good Luck!
 
+<div>
+  <img src="https://s3.us-west-2.amazonaws.com/files.training.databricks.com/ohamdan/Kantar+Hackathon.jpeg" width="1200">
+</div>
